@@ -13,7 +13,7 @@ Install requirements.txt file to make sure correct versions of libraries are bei
 - 
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Installing
