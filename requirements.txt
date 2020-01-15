@@ -1,0 +1,7 @@
+
+
+# Neural net and related libraries.
+pandas
+numpy
+torch
+tqdm

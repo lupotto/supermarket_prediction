@@ -139,4 +139,7 @@ experiments/
 alex_gracia_task_2_files/
 old_implementations/
 *.pdf
+<<<<<<< HEAD
 output/
+=======
+>>>>>>> b64c5e2102fbe24c87deb87b6675a61cd8bdee2d
