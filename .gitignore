@@ -134,3 +134,8 @@ data/test/
 data/train/
 data/validation/
 experiments/
+
+#files
+alex_gracia_task_2_files/
+*.pdf
+*.txt
