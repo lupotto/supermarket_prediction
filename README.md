@@ -1,6 +1,6 @@
-# Project Title
+# Retail Prediction Algorithm
 
-One Paragraph of project description goes here
+This algorithm predicts the product that a client would choose based on the transactional data and the promotion assigned to the product. The great advantage of the algorithm is that does not use intrisic attributes of the client (i.e., age, gender, poblation) to make the predictions.
 
 ## Getting Started
 
