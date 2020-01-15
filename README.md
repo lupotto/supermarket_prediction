@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 Install requirements.txt file to make sure correct versions of libraries are being used.
-- Python 3.5.x
+- Python 3.6.x
 - 
 
 ```
