@@ -139,4 +139,4 @@ experiments/
 alex_gracia_task_2_files/
 old_implementations/
 *.pdf
-*.txt
+output/
