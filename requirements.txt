@@ -1,6 +1,6 @@
-pandas
-numpy
-torch
-tqdm
+pandas==0.25.3
+numpy==1.18.1
+torch==1.4.0
+tqdm==4.41.1
 plotly==4.4.1
-notebook
+notebook==6.0.2
