@@ -24,7 +24,6 @@ The project is created in model_retail.ipynb. So just open a jupyter notebook of
 
 ```
 jupyter notebook
-
 ```
 
 
