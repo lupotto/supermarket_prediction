@@ -20,7 +20,13 @@ pip install -r requirements.txt
 
 ## Data Preparation / Training / Evaluation / Test
 
-After installing the libraries open the model_retail.ipynb notebook and follow step by step the pipeline of the project. 
+The project is created in model_retail.ipynb. So just open a jupyter notebook of this file and follow the explanatory pipeline of the project provided.
+
+```
+jupyter notebook
+
+```
+
 
 ## License
 
