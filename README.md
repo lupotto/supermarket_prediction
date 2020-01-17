@@ -29,3 +29,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Based on the paper Gabel, Sebastian and Timoshenko, Artem, Cross-Category Product Choice: A Scalable Deep-Learning Model (May 18, 2019). 
+* Inspiration of https://github.com/nghorbani/ccpcm
